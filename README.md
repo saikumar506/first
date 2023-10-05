@@ -1,5 +1,5 @@
 # python-docker-app
-## To build the docker image in current directory
+## To build and tag the docker image in current directory
 ```
 sudo docker build -t python-flask-app .
 ```
